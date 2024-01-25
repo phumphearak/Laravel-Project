@@ -1,2 +1,4 @@
 # Laravel-Project
-All code Laravel using PHP , Create WebApplication
+All code Laravel using PHP , 
+# update ProductController 
+Create WebApplication
